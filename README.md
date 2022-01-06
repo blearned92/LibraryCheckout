@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General Info
-Basic Project to give a series of mixed possible messages related to Pokemon! Will result in a random Pokemon doing a random attack and resulting in a random outcome. 
+A media factory for creating a checking out movies and books. Add general media from the parent class, "Media," or utilize the child classes "Movie" and "Book" to customize the media with authors, page length, movie runtimes, etc.! Add ratings and view the average ratings of each piece of media by calling upon the class functions within the parent class. 
 
 ## What I Learned
 * How to work with classes within JavaScript.
