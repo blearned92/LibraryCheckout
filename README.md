@@ -14,6 +14,7 @@ Basic Project to give a series of mixed possible messages related to Pokemon! Wi
 * Create and call methods within a class
 * How to properly utilize class inheritance
 * Utilize static methods within a class
+* Refamiliarized with getters and setters
 	
 ## Technologies
 Project is created with:
